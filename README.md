@@ -1,4 +1,7 @@
-### Hi, I'm Marbelys! I am currently studying software development at the ITAcademy. 
+### Hi, I'm Marbelys! I am currently studying software development at the ITAcademy ![it-academy](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/45b5ad81-227d-4eaf-8ea3-d6e5d8447212)
+. 
+![image](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/b2407ae2-26e1-4e46-a466-bd9f5e65547c)
+
 
 <!--
 **MarbelysGomez/MarbelysGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
