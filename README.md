@@ -1,6 +1,8 @@
-### Hi, I'm Marbelys! I am currently studying software development at the ITAcademy ![it-academy](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/45b5ad81-227d-4eaf-8ea3-d6e5d8447212)
-. 
-![image](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/b2407ae2-26e1-4e46-a466-bd9f5e65547c)
+### Hi, I'm Marbelys! I am currently studying software development at the ITAcademy ![ITAcademy logo](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/7f71ce68-0b95-4a62-ae48-14f98b1654c4)
+![image](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9f3ae28b-93cb-40f0-b37e-daaef0edb174)
+
+
+
 
 
 <!--
