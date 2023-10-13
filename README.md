@@ -5,7 +5,7 @@ Languages and Tools:
 
 ![Java-Logo](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/6be23417-dc0b-4ae6-8900-deaeb6d153fd)
 
-![git](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/462facc4-17bf-46dc-bfef-2498b7e6e19a)
+![git](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/3dd4b4f4-9b5c-4d5b-99bd-ce9e916aa349)
 
 ![IntelliJ_IDEA_Icon svg](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/da168403-5ad7-4c00-814d-7f7a32fffe5a)
 
