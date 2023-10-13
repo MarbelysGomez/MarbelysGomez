@@ -1,5 +1,7 @@
 ### Hi, I'm Marbelys! I am currently studying software development at the ITAcademy ![ITAcademy logo](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/7f71ce68-0b95-4a62-ae48-14f98b1654c4)
-![image](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9f3ae28b-93cb-40f0-b37e-daaef0edb174)
+
+![image](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/7ce6ed25-56e2-4974-baeb-045c96363445)
+
 
 
 
