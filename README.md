@@ -3,11 +3,14 @@
 
 Languages and Tools: 
 ![Java-Logo](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/56fb4051-ead2-4beb-a190-20a44a28a0b1)
-![mysql](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/db8e47a2-ff9a-4aa5-a036-d145edd81e5c)
-,  ![logo-eclipse](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/097a341b-1265-449c-b88e-ae89ce3d653f)
-, ![IntelliJ_IDEA_Icon svg](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9d75fdf7-c26a-40ed-ba2a-c5826afd51be)
-, ![git](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9839ebb1-fbb0-4230-8a99-bb4459a1eae2)
-, ![mysql](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/287dbfd5-86a4-4dd1-af82-686b0de3c5d0)
+
+![logo-eclipse](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/097a341b-1265-449c-b88e-ae89ce3d653f)
+
+![IntelliJ_IDEA_Icon svg](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9d75fdf7-c26a-40ed-ba2a-c5826afd51be)
+
+![git](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/9839ebb1-fbb0-4230-8a99-bb4459a1eae2)
+
+![mysql](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/287dbfd5-86a4-4dd1-af82-686b0de3c5d0)
 
 
 
