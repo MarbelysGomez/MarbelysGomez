@@ -1,4 +1,6 @@
-### Hi, I'm Marbelys! I am currently studying backend web development at the ![ITAcademy logo (1)](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/62a4fe39-ae5f-4038-a446-72331a84488b)
+### Hi, I'm Marbelys. I am currently studying backend web development at the IT Academy. 
+
+Languages and Tools: 
 
 
 
