@@ -1,7 +1,7 @@
 ### Hi, I'm Marbelys. I am currently studying backend web development at the  ![ITAcademy logo (1)](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/435bb77e-ffd3-4f90-a0a6-1c0000622c0d)
 
 
-Languages and Tools I'm currently using:  
+Language and Tools I'm currently using:  
 
 ![Java-Logo](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/6be23417-dc0b-4ae6-8900-deaeb6d153fd)
 
@@ -13,6 +13,7 @@ Languages and Tools I'm currently using:
 
 ![logo-eclipse](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/95abb4ee-0c25-4eba-bc28-b2cf20ed3fdc)
 
+![Sin título](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/7d76cd58-2a7e-453b-8b53-28796a8aa925)
 
 
 
