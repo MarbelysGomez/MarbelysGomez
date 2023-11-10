@@ -13,7 +13,7 @@ Language and Tools I'm currently using:
 
 ![logo-eclipse](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/95abb4ee-0c25-4eba-bc28-b2cf20ed3fdc)
 
-![mongodb](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/2d8dd013-57f5-49c3-b2b4-e3a09a95e327)
+![mongodb](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/06adf537-d1f5-40aa-be27-6a9da0fc878f)
 
 
 
