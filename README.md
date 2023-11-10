@@ -13,7 +13,7 @@ Language and Tools I'm currently using:
 
 ![logo-eclipse](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/95abb4ee-0c25-4eba-bc28-b2cf20ed3fdc)
 
-![Sin título](https://github.com/MarbelysGomez/MarbelysGomez/assets/137915980/7d76cd58-2a7e-453b-8b53-28796a8aa925)
+"C:\Users\marbe\Downloads\mongodb.png"
 
 
 
